@@ -1,5 +1,5 @@
 - hey, I’m Hale @haleh06
-- follow me and i'll fo back
+- 
 
 <!---
 haleh06/haleh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
